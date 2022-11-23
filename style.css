@@ -24,7 +24,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.fa {
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 700;
+}
 .icon-rdhcode-about:before {
   content: "\e900";
 }
